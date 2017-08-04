@@ -1,5 +1,5 @@
 body {
-  background-color: Seagreen;
+  background-color: Black;
   text-align: center;
 }
 h1, h2 {
@@ -14,7 +14,7 @@ h2 {
   font-size: 42px;
 }
 a {
-  color: Blue;
+  color: Aquamarine;
   font-size: 18px;
 }
 p {
